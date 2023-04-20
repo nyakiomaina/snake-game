@@ -1,0 +1,13 @@
+/home/nyakio/snake-game/snake/target/debug/deps/quote-80a445301ad36ac9.rmeta: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/nyakio/snake-game/snake/target/debug/deps/libquote-80a445301ad36ac9.rlib: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/nyakio/snake-game/snake/target/debug/deps/quote-80a445301ad36ac9.d: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs:

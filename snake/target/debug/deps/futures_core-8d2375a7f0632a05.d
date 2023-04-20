@@ -1,0 +1,11 @@
+/home/nyakio/snake-game/snake/target/debug/deps/futures_core-8d2375a7f0632a05.rmeta: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/future.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/stream.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/poll.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/atomic_waker.rs
+
+/home/nyakio/snake-game/snake/target/debug/deps/futures_core-8d2375a7f0632a05.d: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/future.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/stream.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/poll.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/atomic_waker.rs
+
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/lib.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/future.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/stream.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/mod.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/poll.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/mod.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/atomic_waker.rs:

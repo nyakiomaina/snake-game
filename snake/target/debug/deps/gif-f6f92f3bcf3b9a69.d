@@ -1,0 +1,13 @@
+/home/nyakio/snake-game/snake/target/debug/deps/gif-f6f92f3bcf3b9a69.rmeta: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/traits.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/common.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/decoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/encoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/../README.md
+
+/home/nyakio/snake-game/snake/target/debug/deps/libgif-f6f92f3bcf3b9a69.rlib: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/traits.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/common.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/decoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/encoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/../README.md
+
+/home/nyakio/snake-game/snake/target/debug/deps/gif-f6f92f3bcf3b9a69.d: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/traits.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/common.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/decoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/encoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/../README.md
+
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/lib.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/traits.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/common.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/mod.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/reader/decoder.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/encoder.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.12.0/src/../README.md:

@@ -1,0 +1,12 @@
+/home/nyakio/snake-game/snake/target/debug/deps/libthiserror_impl-5532b3ed32055def.so: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/ast.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/attr.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/expand.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/fmt.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/generics.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/prop.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/valid.rs
+
+/home/nyakio/snake-game/snake/target/debug/deps/thiserror_impl-5532b3ed32055def.d: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/ast.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/attr.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/expand.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/fmt.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/generics.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/prop.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/valid.rs
+
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/lib.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/ast.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/attr.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/expand.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/fmt.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/generics.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/prop.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/valid.rs:

@@ -1,0 +1,16 @@
+/home/nyakio/snake-game/snake/target/debug/deps/png-0dfee02d3d6f116f.rmeta: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/chunk.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/common.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/stream.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/zlib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/encoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/filter.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/srgb.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/text_metadata.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/traits.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/utils.rs
+
+/home/nyakio/snake-game/snake/target/debug/deps/png-0dfee02d3d6f116f.d: /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/lib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/chunk.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/common.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/mod.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/stream.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/zlib.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/encoder.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/filter.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/srgb.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/text_metadata.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/traits.rs /home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/utils.rs
+
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/lib.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/chunk.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/common.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/mod.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/stream.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/zlib.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/encoder.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/filter.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/srgb.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/text_metadata.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/traits.rs:
+/home/nyakio/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/utils.rs:
